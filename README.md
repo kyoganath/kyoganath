@@ -1,5 +1,5 @@
 ### Hi guys 👋
-currently iam in member of app development.we i.e students creating new app.
+
 <!--
 **kyoganath/kyoganath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
